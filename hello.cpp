@@ -11,7 +11,7 @@ int main () {
 
   cin >> yourname;
 
-  cout << "Hello\n\n" << yourname << ", my name is Alice!"\n\n;
+  cout << "Hello\n\n" << yourname << ", my name is << username "!"\n\n;
 
   return 0;
 }
